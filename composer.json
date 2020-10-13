@@ -18,7 +18,8 @@
 	],
 	"type": "wordpress-plugin",
 	"config": {
-		"sort-packages": true
+		"sort-packages": true,
+		"secure-http": false
 	},
 	"support": {
 		"issues": "https://github.com/wp-media/wp-rocket/issues",
